@@ -79,8 +79,10 @@ Copy
 Edit
 npm start
 4. Enjoy your Quizy App! 🎉
-You can now access the app at http://localhost:3000 for the frontend and http://localhost:5000 for the backend.
+You can now access the app at:
 
+Frontend: http://localhost:3000
+Backend: http://localhost:5000
 Screenshots 📸
 Quizy Home Screen
 
@@ -121,16 +123,10 @@ markdown
 Copy
 Edit
 
-### Key Features of This README:
-- **Beautiful Header** with emoji 🎉 and clear title.
-- **Tech Stack** to showcase the technology you're using.
-- **Step-by-step instructions** to run the app locally, with emojis and explanations for each section.
-- **Screenshots** for visual appeal (replace with actual images of your app).
-- **API Documentation** to explain your app’s endpoints for future expansion.
-- **Contribute Section** inviting others to contribute.
-- **License and Credits** to acknowledge open-source libraries and contributions.
+### What's Fixed:
+1. **Proper line breaks**: The command sequences are now clearly separated with markdown code blocks and headings.
+2. **Markdown syntax**: Ensured proper use of syntax for commands and code blocks.
+3. **Structure**: Improved the flow for easier readability and added appropriate space between different sections.
 
----
-
-Feel free to modify the links and add any additional information as needed! 😄
+Let me know if you need any further modifications!
 ```
